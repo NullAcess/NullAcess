@@ -7,7 +7,8 @@ About:
 Hello everyone again. Right now I’m just a student, but my interest in programming began when I was 12 or 13 years old. Back then, I had just started experimenting with it, but unfortunately, I ended up giving it up. Now, at the start of summer (June 1, 2026), I’m getting back into programming, and I’m more interested in it than ever because this time I want to dive into the world of desktop development.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [shvetsas25@st.ithub.ru](mailto:shvetsas25@st.ithub.ru)
+* ✉️  Mail: [shvetsas25@st.ithub.ru](mailto:shvetsas25@st.ithub.ru)
+* ✉️  Telegram: [@csharp_intern](https://t.me/csharp_intern)
 * 🧠  I'm currently learning Generics / Interface
 * 👥  I'm looking to collaborate on Low level projects
 * 💬  Ask me about 2 months of programming ( c# )
