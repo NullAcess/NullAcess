@@ -1,4 +1,4 @@
 # Badges
 ```
-Hello World ( baadges!!! ) test
+Hello World ( baadges!!! )
 ```
