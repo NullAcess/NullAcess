@@ -9,7 +9,7 @@ Hello everyone again. Right now I’m just a student, but my interest in program
 * 🌍  I'm based in Moscow
 * ✉️  Mail: [shvetsas25@st.ithub.ru](mailto:shvetsas25@st.ithub.ru)
 * ✉️  Telegram: [@csharp_intern](https://t.me/csharp_intern)
-* 🧠  I'm currently learning Generics
+* 🧠  I'm currently learning Class object ( to string / hash / GetType ) and exceptiones 
 * 👥  I'm looking to collaborate on Low level projects
 * 💬  Ask me about 2 months of programming ( c# )
 
