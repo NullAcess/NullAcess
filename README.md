@@ -9,7 +9,8 @@ About:
 * ✉️  Telegram: [@csharp_intern](https://t.me/csharp_intern)
 * 🧠  I'm currently learning Class object ( to string / hash / GetType ) and exceptiones 
 * 👥  I'm looking to collaborate on Low level projects
-* 💬  Ask me about 2 months of programming ( c# )
+  
+* 💬  I love programming, but I still don't love programming as much as I want to love it. I long for 16 hours of programming training per day.
 
 ### Skills
 
