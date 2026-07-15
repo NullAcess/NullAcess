@@ -7,7 +7,7 @@ About:
 * 🌍  I'm based in Moscow
 * ✉️  Mail: [shvetsas25@st.ithub.ru](mailto:shvetsas25@st.ithub.ru)
 * ✉️  Telegram: [@csharp_intern](https://t.me/csharp_intern)
-* 🧠  I'm currently learning Class object ( to string / hash / GetType ) and exceptiones 
+* 🧠  I'm currently learning Delegate / Closure
 * 👥  I'm looking to collaborate on Low level projects
   
 * 💬  I love programming, but I still don't love programming as much as I want to love it. I long for 16 hours of programming training per day.
